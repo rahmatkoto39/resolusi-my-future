@@ -3,11 +3,9 @@ RENCANA BISA PAHAM GIT DAN GITHUB DENGAN CEPAT DAN LANCAR
 > Pertemuan langsung dengan bang aznil dan bli gita melalui gmeet
 > Tanya secara privat diantara mereka
 > Jangan tanya pas jam kerja
-> Diskusi pas sehari sebelum kelas lebih baik
 -Banyak praktek di program git di local computer atau web github
 -Tonton banyak video tutorial
 >tonton video web programmimng unpas
 >tonton video tutorial lainnya versi indonesia
 -Tonton kembali video class recording digital skola
 - Jangan berhenti mencoba
-- Jangan Menyerah
