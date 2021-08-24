@@ -1,0 +1,4 @@
+FUTURE RESOLUSI
+- Memahami dengan cepat cara menggunakan Dbeaver
+- Memahami dengan lancar bagaimana melakukan repositori di git dan github
+- Memahami dengan fasih bagaimana running program python dengan baik
